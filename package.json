@@ -1,0 +1,17 @@
+{
+  "name": "twitterapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bots.js",
+  "dependencies": {
+    "eslint": "^4.18.1",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bots.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jcunha",
+  "license": "ISC"
+}
